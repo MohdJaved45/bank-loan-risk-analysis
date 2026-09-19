@@ -199,7 +199,7 @@ if st.button("Predict Loan Status 🚀"):
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("""
 <p style='text-align: center; color: gray;'>
-Developed by <b>Panchdev Maddheshiya 💻</b> |
+Developed by <b> Mohd Javed Khan 💻</b> |
 Realistic Loan Simulation Dashboard | Streamlit + Scikit-learn + Plotly
 </p>
 """, unsafe_allow_html=True)
